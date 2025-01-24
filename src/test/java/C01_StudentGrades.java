@@ -2,7 +2,7 @@
     import java.util.Map;
     import java.util.Scanner;
 
-    public class StudentGrades {
+    public class C01_StudentGrades {
         /*
     Question:
 We want to develop an application that stores students' names and grades in a classroom.
