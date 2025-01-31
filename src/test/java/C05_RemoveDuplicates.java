@@ -1,6 +1,6 @@
 import java.util.*;
 
-    public class RemoveDuplicates {
+    public class C05_RemoveDuplicates {
 
      /*
     Write a Java program that removes repetitive elements from a list.
